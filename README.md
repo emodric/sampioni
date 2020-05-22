@@ -8,5 +8,6 @@ They called their co-workers "champions" (šampioni) and some of them even "worl
 level of "skill".
 
 The site is written in Croatian and is preserved in all of its original glory, without any modifications.
+You can view it at https://github.com/emodric/sampioni/
 
 All copyright goes to the original site authors, whoever they may be.
